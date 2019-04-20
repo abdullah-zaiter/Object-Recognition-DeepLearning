@@ -1,3 +1,34 @@
 # Object-Recognition-DeepLearning
-O código fonte não está junto a este repositorio pois o computador usado para treinar quebrou e estes resultados são os resultados que eu tinha uppando para a nuvem antes de quebrar, colocarei os codigos fonte assim que eu recuperar o meu HD.
-Foi utilizad o banco de dados caltech101 como base de treinamento.
+Source code added, in jupyter for better visualization and analysis.
+The source code runs many neural network topology with different kernel sizes, layers and other parameters and saves the results of each one so that the comparision can be done later.
+Used anaconda enviroment.
+
+### Used modules:
+		- numpy
+		- keras
+		- os
+		- scipy.misc
+		- skimage
+		- imageio
+		- matplotlib.pyplot
+		- tensorflow
+		- pandas
+		- from sklearn.model_selection import train_test_split
+		- scipy.io
+
+### NNRs were trained on a Computer with NVIDIA GeForce GTX 1070
+
+## Some results:
+##### A measurement of a 142mm pen on raw image:
+
+<p align="center">
+  <img  src="https://github.com/abdullah-zaiter/Object-Recognition-DeepLearning/blob/master/docs/losses/modelLoss1.png">
+</p>
+
+##### A measurement of the  same pen on the undistorted image:
+
+<p align="center">
+  <img  src="https://github.com/abdullah-zaiter/Object-Recognition-DeepLearning/blob/master/docs/acuracias/modelAccuracy1.png">
+</p>
+
+
