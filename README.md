@@ -19,16 +19,19 @@ Used anaconda enviroment.
 ### NNRs were trained on a Computer with NVIDIA GeForce GTX 1070
 
 ## Some results:
-##### A measurement of a 142mm pen on raw image:
+
+##### Model 1 accuracy results:
+
+<p align="center">
+  <img  src="https://github.com/abdullah-zaiter/Object-Recognition-DeepLearning/blob/master/docs/acuracias/modelAccuracy1.png">
+</p>
+
+##### Model 1 losses results:
 
 <p align="center">
   <img  src="https://github.com/abdullah-zaiter/Object-Recognition-DeepLearning/blob/master/docs/losses/modelLoss1.png">
 </p>
 
-##### A measurement of the  same pen on the undistorted image:
 
-<p align="center">
-  <img  src="https://github.com/abdullah-zaiter/Object-Recognition-DeepLearning/blob/master/docs/acuracias/modelAccuracy1.png">
-</p>
 
 
