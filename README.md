@@ -17,7 +17,7 @@ Used anaconda enviroment.
 		- scipy.io
 
 ### NNRs were trained on a Computer with NVIDIA GeForce GTX 1070
-
+### Used caltech101 database
 ## Some results:
 
 ##### Model 1 accuracy results:
