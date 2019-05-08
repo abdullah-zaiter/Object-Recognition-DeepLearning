@@ -1,6 +1,6 @@
 # Object-Recognition-DeepLearning
 Source code added, in jupyter for better visualization and analysis.
-The source code runs many neural network topology with different kernel sizes, layers and other parameters and saves the results of each one so that the comparision can be done later.
+The source code runs many neural network topologies with different kernel sizes, layers and other parameters; and saves the results of each one so that a comparision can be done later.
 Used anaconda enviroment.
 
 ### Used modules:
